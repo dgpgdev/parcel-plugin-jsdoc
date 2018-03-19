@@ -1,0 +1,12 @@
+{
+	"name": "parcel-plugin-jsdoc",
+	"version": "0.0.1",
+	"description": "a very simple plugin to make jsdoc with parcel.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Gauthier de Girodon Pralong",
+	"license": "MIT"
+}
